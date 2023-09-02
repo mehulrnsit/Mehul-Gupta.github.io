@@ -33,3 +33,7 @@ body {
 #footer-text{
   font-family:Zapf Chancery, cursive;
 }
+
+.img-fluid{
+  width: 100%;
+}
